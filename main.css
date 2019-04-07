@@ -1,0 +1,15 @@
+svg {
+  overflow: hidden;
+}
+
+path {
+  fill: none;
+  stroke: blue;
+  stroke-width: 3;
+  stroke-linejoin: round;
+}
+
+#map {
+  width: 100vw;
+  height: 100vh;
+}
